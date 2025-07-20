@@ -135,3 +135,15 @@
 /Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/obj/Debug/net8.0/PhysiqueAnalyzerApi.genruntimeconfig.cache
 /Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/obj/Debug/net8.0/ref/PhysiqueAnalyzerApi.dll
 /Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/obj/Debug/net8.0/PhysiqueAnalyzerApi.sourcelink.json
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Npgsql.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/rahulsharma/Downloads/PhysiqueAnalyzerApi/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhysiqueAnalyzerApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c737c1c17d9afbb0c2f1be51287bf153d33d19b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63f845d025f3f835b2e350400c6ed99180e683e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhysiqueAnalyzerApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhysiqueAnalyzerApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
