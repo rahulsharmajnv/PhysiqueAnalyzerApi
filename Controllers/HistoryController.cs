@@ -8,7 +8,7 @@ using System.Security.Claims;
 namespace PhysiqueAnalyzerApi.Controllers
 {
     [ApiController]
-    [Authorize]
+    [Authorize(AuthenticationSchemes = "CustomJwt")]
     [Route("api/[controller]")]
     public class HistoryController : ControllerBase
     {
